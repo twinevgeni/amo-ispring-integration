@@ -1,0 +1,12 @@
+services:
+  4sides:
+    build: .
+    container_name: 4sides
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/var/www/html
+      - ./dlog:/var/log/4sides
+    environment:
+      APACHE_DOCUMENT_ROOT: /var/www/html
+      LOG_PATH: /var/log/4sides

@@ -1,0 +1,36 @@
+{
+  "update": [
+    {
+      "id": "47096591",
+      "responsible_user_id": "12921054",
+      "group_id": "0",
+      "date_create": "1756619877",
+      "last_modified": "1756619893",
+      "created_user_id": "12921054",
+      "modified_user_id": "12921054",
+      "linked_company_id": "0",
+      "account_id": "32634874",
+      "custom_fields": [
+        {
+          "id": "928361",
+          "name": "День рождения",
+          "values": [
+            {
+              "value": "06.06.2025"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": "647271",
+          "name": "TTTTT"
+        }
+      ],
+      "old_responsible_user_id": "12921054",
+      "created_at": "1756619877",
+      "updated_at": "1756619893",
+      "type": "contact"
+    }
+  ]
+}
