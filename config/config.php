@@ -26,7 +26,5 @@ define('AMO_TOKEN_FILE', DIR_TOKEN . DS . 'token.json');
 define('AMO_TIMEZONE', 'Europe/Moscow');
 define('AMO_PAGINATION_WAIT_SEC', 1);
 
-define('AMO_BIRTHDAY_FIELD_ID', 2022509);
-define('AMO_AGE_FIELD_ID', 2022267);
-define('AMO_HEBREW_FIELD_ID', 1772227);
-
+define('ISPRING_CLIENT_ID', '42cc9118-9775-11f0-bdc4-7af936d4b884');
+define('ISPRING_SECRET', 'XDM8CjqTGj-7t6hIDVL9JgY5QlehE9ojH6TZI79oxWI');
