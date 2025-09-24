@@ -1,8 +1,8 @@
 <?php
 
-namespace jewellclub\services;
+namespace amoispring\services;
 
-use jewellclub\common\BaseComponent;
+use amoispring\common\BaseComponent;
 
 abstract class BaseService extends BaseComponent
 {

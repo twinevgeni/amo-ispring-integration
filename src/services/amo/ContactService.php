@@ -1,12 +1,12 @@
 <?php
 
-namespace jewellclub\services\amo;
+namespace amoispring\services\amo;
 
 use AmoCRM\Filters\ContactsFilter;
 use AmoCRM\Models\ContactModel;
 use Carbon\Carbon;
 use Exception;
-use jewellclub\services\hebcal\HebcalService;
+use amoispring\services\hebcal\HebcalService;
 
 /**
  * ContactService

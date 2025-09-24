@@ -1,9 +1,9 @@
 <?php
 
-namespace tests\jewellclub\services\amo;
+namespace tests\amoispring\services\amo;
 
 use PHPUnit\Framework\TestCase;
-use jewellclub\services\amo\LeadService;
+use amoispring\services\amo\LeadService;
 
 class LeadServiceTest extends TestCase
 {

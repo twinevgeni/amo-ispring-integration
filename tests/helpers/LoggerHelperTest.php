@@ -1,9 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace tests\jewellclub\helpers;
+namespace tests\amoispring\helpers;
 
 use PHPUnit\Framework\TestCase;
-use jewellclub\helpers\common\LoggerHelper;
+use amoispring\helpers\common\LoggerHelper;
 
 /**
  * ConfigHelperTest

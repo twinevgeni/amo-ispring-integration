@@ -1,8 +1,8 @@
 <?php
 
-namespace jewellclub\model\dto;
+namespace amoispring\model\dto;
 
-use jewellclub\helpers\common\StringHelper;
+use amoispring\helpers\common\StringHelper;
 
 abstract class BaseDto
 {

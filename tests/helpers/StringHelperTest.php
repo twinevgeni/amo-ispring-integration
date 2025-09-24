@@ -1,9 +1,9 @@
 <?php
 
-namespace tests\jewellclub\helpers;
+namespace tests\amoispring\helpers;
 
 use PHPUnit\Framework\TestCase;
-use jewellclub\helpers\common\StringHelper;
+use amoispring\helpers\common\StringHelper;
 
 class StringHelperTest extends TestCase
 {

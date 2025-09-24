@@ -1,6 +1,6 @@
 <?php
 
-namespace jewellclub\helpers\common;
+namespace amoispring\helpers\common;
 
 /**
  * StringHelper

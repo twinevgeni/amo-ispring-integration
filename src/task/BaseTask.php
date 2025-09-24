@@ -2,7 +2,7 @@
 
 namespace jewellclub\task;
 
-use jewellclub\common\BaseComponent;
+use amoispring\common\BaseComponent;
 
 /**
  * Базовый класс для задач

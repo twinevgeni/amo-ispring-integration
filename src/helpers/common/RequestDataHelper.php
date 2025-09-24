@@ -2,8 +2,8 @@
 
 namespace jewellclub\helpers\common;
 
-use jewellclub\common\BaseComponent;
-use jewellclub\model\dto\common\ApiDataType;
+use amoispring\common\BaseComponent;
+use amoispring\model\dto\common\ApiDataType;
 
 /**
  * RequestDataHelper

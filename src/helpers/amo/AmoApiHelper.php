@@ -1,13 +1,13 @@
 <?php
 
-namespace jewellclub\helpers\amo;
+namespace amoispring\helpers\amo;
 
 use AmoCRM\Client\AmoCRMApiClient;
 use AmoCRM\Client\LongLivedAccessToken;
 use League\OAuth2\Client\Token\AccessToken;
 use League\OAuth2\Client\Token\AccessTokenInterface;
-use jewellclub\common\BaseComponent;
-use jewellclub\helpers\common\StringHelper;
+use amoispring\common\BaseComponent;
+use amoispring\helpers\common\StringHelper;
 
 /**
  * AmoApiHelper

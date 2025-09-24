@@ -1,6 +1,6 @@
 <?php
 
-namespace jewellclub\services\amo;
+namespace amoispring\services\amo;
 
 use AmoCRM\Filters\LeadsFilter;
 use AmoCRM\Models\LeadModel;

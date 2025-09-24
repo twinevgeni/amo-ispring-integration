@@ -2,8 +2,8 @@
 
 namespace jewellclub\controllers;
 
-use jewellclub\common\BaseComponent;
-use jewellclub\helpers\common\RequestDataHelper;
+use amoispring\common\BaseComponent;
+use amoispring\helpers\common\RequestDataHelper;
 
 abstract class BaseController extends BaseComponent
 {

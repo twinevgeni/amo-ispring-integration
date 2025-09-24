@@ -2,7 +2,7 @@
 
 namespace jewellclub\controllers;
 
-use jewellclub\services\amo\ContactService;
+use amoispring\services\amo\ContactService;
 
 class ContactController extends BaseController
 {

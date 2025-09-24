@@ -8,7 +8,7 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . "bootstrap.php";
 
 use AmoCRM\Client\AmoCRMApiClient;
 use League\OAuth2\Client\Token\AccessToken;
-use jewellclub\helpers\common\LoggerHelper;
+use amoispring\helpers\common\LoggerHelper;
 
 $logger = LoggerHelper::getLogger("amo_auth.php");
 $logger->info('amo_auth.php call');

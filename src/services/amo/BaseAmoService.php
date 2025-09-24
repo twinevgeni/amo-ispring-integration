@@ -1,9 +1,9 @@
 <?php
 
-namespace jewellclub\services\amo;
+namespace amoispring\services\amo;
 
-use jewellclub\helpers\amo\AmoApiHelper;
-use jewellclub\services\BaseService;
+use amoispring\helpers\amo\AmoApiHelper;
+use amoispring\services\BaseService;
 
 abstract class BaseAmoService extends BaseService
 {

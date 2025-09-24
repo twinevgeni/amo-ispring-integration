@@ -1,9 +1,9 @@
 <?php
 
-namespace jewellclub\model\dto\amo;
+namespace amoispring\model\dto\amo;
 
-use jewellclub\helpers\common\StringHelper;
-use jewellclub\model\dto\BaseDto;
+use amoispring\helpers\common\StringHelper;
+use amoispring\model\dto\BaseDto;
 
 /**
  * Базовое DTO для AmoCRM

@@ -1,9 +1,9 @@
 <?php
 
-namespace jewellclub\common;
+namespace amoispring\common;
 
 use Monolog\Logger;
-use jewellclub\helpers\common\LoggerHelper;
+use amoispring\helpers\common\LoggerHelper;
 
 abstract class BaseComponent
 {

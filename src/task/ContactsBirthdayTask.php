@@ -3,7 +3,7 @@
 namespace jewellclub\task;
 
 use Exception;
-use jewellclub\services\amo\ContactService;
+use amoispring\services\amo\ContactService;
 
 /**
  * Задача обновления дней рождения у контактов

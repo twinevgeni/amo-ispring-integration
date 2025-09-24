@@ -1,8 +1,8 @@
 <?php
 
-namespace jewellclub\model\dto\common;
+namespace amoispring\model\dto\common;
 
-use jewellclub\model\dto\BaseDto;
+use amoispring\model\dto\BaseDto;
 
 class ApiDataType extends BaseDto
 {
